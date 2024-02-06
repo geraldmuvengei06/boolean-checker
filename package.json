@@ -1,0 +1,23 @@
+{
+  "name": "boolean-checker",
+  "version": "1.0.0",
+  "description": "\"Boolean Checker\" - An npm package for quickly validating true/false/undefined values in JavaScript, enhancing code reliability. Simplify boolean checks for streamlined development.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/geraldmuvengei06/boolean-checker.git"
+  },
+  "keywords": [
+    "boolean checker",
+    "check boolean"
+  ],
+  "author": "Gerald Muvengei",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/geraldmuvengei06/boolean-checker/issues"
+  },
+  "homepage": "https://github.com/geraldmuvengei06/boolean-checker#readme"
+}
