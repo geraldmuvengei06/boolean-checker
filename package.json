@@ -1,6 +1,6 @@
 {
   "name": "boolean-checker",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "\"Boolean Checker\" - An npm package for quickly validating true/false/undefined values in JavaScript, enhancing code reliability. Simplify boolean checks for streamlined development.",
   "main": "index.js",
   "scripts": {
